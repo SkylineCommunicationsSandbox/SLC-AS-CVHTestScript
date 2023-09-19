@@ -17,7 +17,7 @@ namespace CVHTestScript_1
 		/// <param name="engine">Link with SLAutomation process.</param>
 		public void Run(IEngine engine)
 		{
-			engine.GenerateInformation("Hello there world too");
+			engine.GenerateInformation("Hello there world too 2");
 	
 		}
 	}
